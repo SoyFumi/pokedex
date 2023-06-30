@@ -25,7 +25,7 @@ function App() {
           Buscar
         </button>
       </div>
-      <Pokedex />
+      <Container />
     </div>
   );
 }
